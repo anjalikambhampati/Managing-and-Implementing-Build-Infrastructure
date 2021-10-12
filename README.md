@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/happyleaningAZ/DemoPublic/_apis/build/status/anjalikambhampati.Managing-and-Implementing-Build-Infrastructure?branchName=master)](https://dev.azure.com/happyleaningAZ/DemoPublic/_build/latest?definitionId=3&branchName=master)
 # Introduction 
 This is the sample project for the Implementing and Managing Build Infrastructure course at www.CloudAcademy.com. 
 
